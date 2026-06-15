@@ -1,0 +1,9 @@
+# robots.txt untuk OPUNGWIN
+# https://www.opungwin.com
+
+# Izinkan semua crawler
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.opungwin.com/sitemap.xml
